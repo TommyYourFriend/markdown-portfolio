@@ -1,1 +1,1 @@
-https://github.com/TommyYourFriend/markdown-portfolio
+[twitch] (twitch.tv/tommyyourfriend)
