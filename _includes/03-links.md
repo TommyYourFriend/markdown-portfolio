@@ -1,1 +1,1 @@
-[twitch] (twitch.tv/tommyyourfriend)
+[My github](https://github.com/TommyYourFriend)
